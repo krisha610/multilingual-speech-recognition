@@ -1,0 +1,6 @@
+streamlit
+openai-whisper
+spacy
+torch
+ffmpeg-python
+audio-recorder-streamlit

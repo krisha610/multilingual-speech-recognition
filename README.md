@@ -1,2 +1,16 @@
-# multilingual-speech-recognition
-Multilingual Speech Recognition System using Faster Whisper and Streamlit supporting English, Hindi, Marathi and Gujarati.
+# Multilingual Speech Recognition System
+
+## Features
+- Speech to Text
+- Language Detection
+- English Support
+- Hindi Support
+- Gujarati Support
+- Tokenization
+- Named Entity Recognition
+
+## Technologies
+- Whisper
+- spaCy
+- Streamlit
+- PyTorch
